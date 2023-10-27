@@ -1,1 +1,1 @@
-# house_rate_prediction
+# wine_quality_prediction
